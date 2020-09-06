@@ -12,6 +12,8 @@ import {
   Icon,
 } from 'semantic-ui-react'
 
+import git_graph_sample from './git_graph.png'
+
 const Home: React.FC = () => {
   const name: string = 'Test Name';
   return (
@@ -48,7 +50,6 @@ const Home: React.FC = () => {
           <Grid container columns={1} doubling>
             <Grid.Column>
               <Segment>
-                <Header>メッセージ</Header>
                 <p>連続〇〇日コミットなんてすごい！</p>
               </Segment>
             </Grid.Column>
@@ -58,7 +59,14 @@ const Home: React.FC = () => {
         <Container className="commit-log" text style={{ marginTop: '5em' }}>
           <Header as='h2' dividing>Commit Log</Header>
           <p>ここにGithubの草グラフを載せる</p>
+          <Image src={git_graph_sample} size='huge' />
         </Container>
+
+        <Container className="project" text style={{ marginTop: '5em' }}>
+          <Header as='h2' dividing>Project</Header>
+          <p>ここにプロジェクト一覧を表示する</p>
+        </Container>
+
       </Container>
     </div>)
 }
