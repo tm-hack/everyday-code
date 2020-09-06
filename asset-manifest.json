@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EverydayCode/static/css/main.5f361e03.chunk.css",
-    "main.js": "/EverydayCode/static/js/main.d520c422.chunk.js",
-    "main.js.map": "/EverydayCode/static/js/main.d520c422.chunk.js.map",
+    "main.js": "/EverydayCode/static/js/main.a74b0e3b.chunk.js",
+    "main.js.map": "/EverydayCode/static/js/main.a74b0e3b.chunk.js.map",
     "runtime-main.js": "/EverydayCode/static/js/runtime-main.c99ab78a.js",
     "runtime-main.js.map": "/EverydayCode/static/js/runtime-main.c99ab78a.js.map",
     "static/css/2.379c37f5.chunk.css": "/EverydayCode/static/css/2.379c37f5.chunk.css",
     "static/js/2.fc7eb841.chunk.js": "/EverydayCode/static/js/2.fc7eb841.chunk.js",
     "static/js/2.fc7eb841.chunk.js.map": "/EverydayCode/static/js/2.fc7eb841.chunk.js.map",
     "index.html": "/EverydayCode/index.html",
-    "precache-manifest.4eff73a20c71ca60f3f4c370c80628de.js": "/EverydayCode/precache-manifest.4eff73a20c71ca60f3f4c370c80628de.js",
+    "precache-manifest.d0039bce40c86db174c1cfb1c5e679c9.js": "/EverydayCode/precache-manifest.d0039bce40c86db174c1cfb1c5e679c9.js",
     "service-worker.js": "/EverydayCode/service-worker.js",
     "static/css/2.379c37f5.chunk.css.map": "/EverydayCode/static/css/2.379c37f5.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/EverydayCode/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.379c37f5.chunk.css",
     "static/js/2.fc7eb841.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d520c422.chunk.js"
+    "static/js/main.a74b0e3b.chunk.js"
   ]
 }
