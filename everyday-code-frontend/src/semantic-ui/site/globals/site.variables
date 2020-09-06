@@ -1,0 +1,6 @@
+/*******************************
+     User Global Variables
+*******************************/
+@headerFont        : 'Muli', 'Noto Sans JP', sans-serif;
+@pageFont          : 'Muli', 'Noto Sans JP', sans-serif;
+@googleFontFamily  : 'Noto+Sans+JP:wght@300;400;700|Muli:wght@300;400;700';
