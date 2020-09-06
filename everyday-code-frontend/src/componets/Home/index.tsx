@@ -25,7 +25,7 @@ const Home: React.FC = () => {
         </Container>
       </Menu>
 
-      <Container text style={{ marginTop: '6em' }}>
+      <Container text style={{ marginTop: '5em' }}>
         <Header as='h1'>
           <Icon name='user circle' size='huge' /> {name}
         </Header>
@@ -56,13 +56,13 @@ const Home: React.FC = () => {
           </Grid>
         </Container>
 
-        <Container className="commit-log" text style={{ marginTop: '5em' }}>
+        <Container className="commit-log" text style={{ marginTop: '4em' }}>
           <Header as='h2' dividing>Commit Log</Header>
           <p>ここにGithubの草グラフを載せる</p>
           <Image src={git_graph_sample} size='huge' />
         </Container>
 
-        <Container className="project" text style={{ marginTop: '5em' }}>
+        <Container className="project" text style={{ marginTop: '4em' }}>
           <Header as='h2' dividing>Project</Header>
           <p>ここにプロジェクト一覧を表示する</p>
         </Container>
