@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71d12a883607d4398326f517f75651b4",
+    "revision": "3be4e95c06ff63c267076f15d61efa93",
     "url": "/EverydayCode/index.html"
   },
   {
-    "revision": "3067bdcfd57b8898d3ad",
+    "revision": "abc4e6f2eb6f19b82783",
     "url": "/EverydayCode/static/css/2.379c37f5.chunk.css"
   },
   {
-    "revision": "9d0d1e6e1d6c19b6bb29",
+    "revision": "8f229edba840f4f55740",
     "url": "/EverydayCode/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "3067bdcfd57b8898d3ad",
-    "url": "/EverydayCode/static/js/2.fc7eb841.chunk.js"
+    "revision": "abc4e6f2eb6f19b82783",
+    "url": "/EverydayCode/static/js/2.1bd0fafd.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/EverydayCode/static/js/2.fc7eb841.chunk.js.LICENSE.txt"
+    "url": "/EverydayCode/static/js/2.1bd0fafd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d0d1e6e1d6c19b6bb29",
-    "url": "/EverydayCode/static/js/main.a74b0e3b.chunk.js"
+    "revision": "8f229edba840f4f55740",
+    "url": "/EverydayCode/static/js/main.ab0531ac.chunk.js"
   },
   {
     "revision": "833aae203b990ea64168",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/EverydayCode/static/media/flags.9c74e172.png"
+  },
+  {
+    "revision": "360ac090f717051f411823e562c516b7",
+    "url": "/EverydayCode/static/media/git_graph.360ac090.png"
   },
   {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
