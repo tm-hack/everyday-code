@@ -1,5 +1,4 @@
 import React from 'react';
-import Helmet from 'react-helmet';
 import {
   Container,
   Divider,
@@ -17,10 +16,6 @@ const Home: React.FC = () => {
   const name: string = 'Takumi Masuda';
   return (
     <div>
-      <Helmet>
-        <title>Everyday Code</title>
-      </Helmet>
-
       <Menu fixed='top' inverted>
         <Container>
           <Menu.Item as='a' header>Home</Menu.Item>
