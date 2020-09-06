@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3be4e95c06ff63c267076f15d61efa93",
+    "revision": "45ed345a5d78bd6007e60966ed8352a1",
     "url": "/EverydayCode/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EverydayCode/static/css/2.379c37f5.chunk.css"
   },
   {
-    "revision": "8f229edba840f4f55740",
+    "revision": "b04ce3a25cddcf887596",
     "url": "/EverydayCode/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EverydayCode/static/js/2.1bd0fafd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f229edba840f4f55740",
-    "url": "/EverydayCode/static/js/main.ab0531ac.chunk.js"
+    "revision": "b04ce3a25cddcf887596",
+    "url": "/EverydayCode/static/js/main.ba11b6db.chunk.js"
   },
   {
     "revision": "833aae203b990ea64168",
