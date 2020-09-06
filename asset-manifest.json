@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EverydayCode/static/css/main.5f361e03.chunk.css",
+    "main.js": "/EverydayCode/static/js/main.d520c422.chunk.js",
+    "main.js.map": "/EverydayCode/static/js/main.d520c422.chunk.js.map",
+    "runtime-main.js": "/EverydayCode/static/js/runtime-main.c99ab78a.js",
+    "runtime-main.js.map": "/EverydayCode/static/js/runtime-main.c99ab78a.js.map",
+    "static/css/2.379c37f5.chunk.css": "/EverydayCode/static/css/2.379c37f5.chunk.css",
+    "static/js/2.fc7eb841.chunk.js": "/EverydayCode/static/js/2.fc7eb841.chunk.js",
+    "static/js/2.fc7eb841.chunk.js.map": "/EverydayCode/static/js/2.fc7eb841.chunk.js.map",
+    "index.html": "/EverydayCode/index.html",
+    "precache-manifest.4eff73a20c71ca60f3f4c370c80628de.js": "/EverydayCode/precache-manifest.4eff73a20c71ca60f3f4c370c80628de.js",
+    "service-worker.js": "/EverydayCode/service-worker.js",
+    "static/css/2.379c37f5.chunk.css.map": "/EverydayCode/static/css/2.379c37f5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/EverydayCode/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fc7eb841.chunk.js.LICENSE.txt": "/EverydayCode/static/js/2.fc7eb841.chunk.js.LICENSE.txt",
+    "static/media/semantic.less": "/EverydayCode/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c99ab78a.js",
+    "static/css/2.379c37f5.chunk.css",
+    "static/js/2.fc7eb841.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d520c422.chunk.js"
+  ]
+}
