@@ -13,7 +13,7 @@ import {
 } from 'semantic-ui-react'
 
 const Home: React.FC = () => {
-  const name: string = 'Takumi Masuda';
+  const name: string = 'Test Name';
   return (
     <div>
       <Menu fixed='top' inverted>
