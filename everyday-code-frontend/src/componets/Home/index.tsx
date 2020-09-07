@@ -11,20 +11,25 @@ import {
   Segment,
   Icon,
 } from 'semantic-ui-react'
+import { Link } from 'react-router-dom';
+import { userData } from '../../data/user_account'
+
+const git_account = userData.account_name;
 
 // 草を取得してくれるサービスを利用
 // https://grass-graph.moshimo.works/
-const git_account: string = 'takumimi1124'
 const git_graph_image: string = `https://grass-graph.moshimo.works/images/${git_account}.png`
 const git_hub_url:string = `https://github.com/${git_account}`
 
 const Home: React.FC = () => {
+  console.log('Homeを通った')
+
   return (
     <div>
       <Menu fixed='top' inverted>
         <Container>
-          <Menu.Item as='a' header>Home</Menu.Item>
-          <Menu.Item as='a'>Weekly Log</Menu.Item>
+          <Menu.Item as={Link} to='/' header>Home</Menu.Item>
+          <Menu.Item as={Link} to='/weeklyLog'>Weekly Log</Menu.Item>
         </Container>
       </Menu>
 
