@@ -12,10 +12,13 @@ import {
   Icon,
 } from 'semantic-ui-react'
 
-import git_graph_sample from './git_graph.png'
+// 草を取得してくれるサービスを利用
+// https://grass-graph.moshimo.works/
+const git_account: string = 'takumimi1124'
+const git_graph_image: string = `https://grass-graph.moshimo.works/images/${git_account}.png`
+const git_hub_url:string = `https://github.com/${git_account}`
 
 const Home: React.FC = () => {
-  const name: string = 'Test Name';
   return (
     <div>
       <Menu fixed='top' inverted>
@@ -27,7 +30,7 @@ const Home: React.FC = () => {
 
       <Container text style={{ marginTop: '5em' }}>
         <Header as='h1'>
-          <Icon name='user circle' size='huge' /> {name}
+          <Icon name='user circle' size='huge' />{git_account}
         </Header>
 
         <Container className="summary" text style={{ marginTop: '2em' }}>
@@ -58,8 +61,10 @@ const Home: React.FC = () => {
 
         <Container className="commit-log" text style={{ marginTop: '4em' }}>
           <Header as='h2' dividing>Commit Log</Header>
-          <p>ここにGithubの草グラフを載せる</p>
-          <Image src={git_graph_sample} size='huge' />
+          <p><b>{git_account}</b>のGitHub活動記録</p>
+          <a href={git_hub_url}>
+            <Image src={git_graph_image} size='huge' />
+          </a>
         </Container>
 
         <Container className="project" text style={{ marginTop: '4em' }}>
