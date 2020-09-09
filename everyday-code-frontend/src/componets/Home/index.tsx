@@ -64,7 +64,7 @@ const Home: React.FC = () => {
           </Grid>
         </Container>
 
-        <Container className="commit-log" text style={{ marginTop: '4em' }}>
+        <Container className="commit-log" text style={{ marginTop: '2em' }}>
           <Header as='h2' dividing>Commit Log</Header>
           <p><b>{git_account}</b>のGitHub活動記録</p>
           <a href={git_hub_url}>
@@ -72,9 +72,25 @@ const Home: React.FC = () => {
           </a>
         </Container>
 
-        <Container className="project" text style={{ marginTop: '4em' }}>
+        <Container className="project" text style={{ marginTop: '2em' }}>
           <Header as='h2' dividing>Project</Header>
-          <p>ここにプロジェクト一覧を表示する</p>
+          <Grid container columns={1} doubling>
+            <Grid.Column>
+              <Segment>
+                <p>プロジェクト１</p>
+              </Segment>
+            </Grid.Column>
+            <Grid.Column>
+              <Segment>
+                <p>プロジェクト２</p>
+              </Segment>
+            </Grid.Column>
+            <Grid.Column>
+              <Segment>
+                <p>プロジェクト３</p>
+              </Segment>
+            </Grid.Column>
+          </Grid>
         </Container>
 
       </Container>
