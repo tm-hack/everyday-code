@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/EverydayCode/static/css/main.5f361e03.chunk.css",
-    "main.js": "/EverydayCode/static/js/main.dbc914b7.chunk.js",
-    "main.js.map": "/EverydayCode/static/js/main.dbc914b7.chunk.js.map",
-    "runtime-main.js": "/EverydayCode/static/js/runtime-main.c99ab78a.js",
-    "runtime-main.js.map": "/EverydayCode/static/js/runtime-main.c99ab78a.js.map",
-    "static/css/2.3747e10a.chunk.css": "/EverydayCode/static/css/2.3747e10a.chunk.css",
-    "static/js/2.2338e3e4.chunk.js": "/EverydayCode/static/js/2.2338e3e4.chunk.js",
-    "static/js/2.2338e3e4.chunk.js.map": "/EverydayCode/static/js/2.2338e3e4.chunk.js.map",
-    "index.html": "/EverydayCode/index.html",
-    "precache-manifest.3a753861e7137141d1d509d4dd51e36e.js": "/EverydayCode/precache-manifest.3a753861e7137141d1d509d4dd51e36e.js",
-    "service-worker.js": "/EverydayCode/service-worker.js",
-    "static/css/2.3747e10a.chunk.css.map": "/EverydayCode/static/css/2.3747e10a.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/EverydayCode/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2338e3e4.chunk.js.LICENSE.txt": "/EverydayCode/static/js/2.2338e3e4.chunk.js.LICENSE.txt",
-    "static/media/semantic.less": "/EverydayCode/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/everyday-code/static/css/main.5f361e03.chunk.css",
+    "main.js": "/everyday-code/static/js/main.09e418c3.chunk.js",
+    "main.js.map": "/everyday-code/static/js/main.09e418c3.chunk.js.map",
+    "runtime-main.js": "/everyday-code/static/js/runtime-main.7be61292.js",
+    "runtime-main.js.map": "/everyday-code/static/js/runtime-main.7be61292.js.map",
+    "static/css/2.c5bc2f13.chunk.css": "/everyday-code/static/css/2.c5bc2f13.chunk.css",
+    "static/js/2.2338e3e4.chunk.js": "/everyday-code/static/js/2.2338e3e4.chunk.js",
+    "static/js/2.2338e3e4.chunk.js.map": "/everyday-code/static/js/2.2338e3e4.chunk.js.map",
+    "index.html": "/everyday-code/index.html",
+    "precache-manifest.a0d9eb82af7de9f30770ae54b64d884c.js": "/everyday-code/precache-manifest.a0d9eb82af7de9f30770ae54b64d884c.js",
+    "service-worker.js": "/everyday-code/service-worker.js",
+    "static/css/2.c5bc2f13.chunk.css.map": "/everyday-code/static/css/2.c5bc2f13.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/everyday-code/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2338e3e4.chunk.js.LICENSE.txt": "/everyday-code/static/js/2.2338e3e4.chunk.js.LICENSE.txt",
+    "static/media/semantic.less": "/everyday-code/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c99ab78a.js",
-    "static/css/2.3747e10a.chunk.css",
+    "static/js/runtime-main.7be61292.js",
+    "static/css/2.c5bc2f13.chunk.css",
     "static/js/2.2338e3e4.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.dbc914b7.chunk.js"
+    "static/js/main.09e418c3.chunk.js"
   ]
 }
